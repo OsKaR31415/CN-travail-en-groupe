@@ -1,29 +1,26 @@
-​	**Expérience professionnelles**
+## Expérience professionnelles
 
-​	
- 
- 	
+- ### 	<u>**Croix rouge**</u>
 
-### 	**Croix rouge**
+- ​	***1 semaine, 2016***
 
-​	***1 semaine, 2016***
+- - ​		**Concevoir 	un projet d’actions socioculturelles**
 
-- ​		**Concevoir 	un projet d’actions socioculturelles**
+- ### 	***Club solidarité***
 
-### 	**Club solidarité**
+- ​	***4 ans***
 
-​	***4 ans***
+- - ​		**Concevoir 	un projet d’actions socioculturelles**
 
-- ​		**Concevoir 	un projet d’actions socioculturelles**
+- ### 	Renault
 
-### 	Renault
+- ​	***1 semaine***
 
-​	***1 semaine***
+- - ​		**Identifier 	les composants et les pièces défectueuses**
 
-- ​		**Identifier 	les composants et les pièces défectueuses**
+- ​	
 
-​	
- 
+
  	
 
 ​	**Formations**
@@ -37,7 +34,7 @@
 ​	 *Baccalauréat général (NSI théatre)***
 ** 	*2018-2021**
 \* 
- 
+
  	
 
 ​	**Compétences**
@@ -49,29 +46,34 @@
 ​	
  	 
  	 **PHOTO** 
- 
+
+
  	 
  	 	
- 
+
  	  
- 
+
  	  
- 
+
  	  **Contact** 
- 	 
+
  
+
  	 **5 rue Docteur Dayfres**    **41000** **Blois** 
- 
+ 	 
  	 **//****logo téléphone** **07 82 63 71 77** 
- 
+
+
  	 
- 
+
  	 **//logo @** **yanisdezzaz33@gmail.com**  
- 
+
+
  	  
- 
- 	 	
+
+
  	  **DEZZAZ Yanis** 
- 	 
+
+
  	 
  	 
