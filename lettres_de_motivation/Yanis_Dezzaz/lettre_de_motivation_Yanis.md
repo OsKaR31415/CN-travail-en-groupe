@@ -5,17 +5,6 @@
 
 <!-- peut être que d'autre argument sont nécessaires : -->
 
-Ouais je suis le meilleur donc embauchez moi !
+Exemple de lettre de motivation : ![](https://www.modeles-de-cv.com/wp-content/uploads/2020/05/exemple-lettre-de-motivation-simple.jpg)
 
-Mes qualités :
-
-- Beau
-- Inteligent
-- Fort
-- Musclé
-- Perfectionniste (le fameux)
-- Et enfin intelligent
-
-Mes defauts :
-
-- Trop de qualité
+Ne pas oublier de ce référer à ce model.
