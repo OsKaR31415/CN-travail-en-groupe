@@ -7,5 +7,15 @@
 
 Ouais je suis le meilleur donc embauchez moi !
 
+Mes qualités :
 
+- Beau
+- Inteligent
+- Fort
+- Musclé
+- Perfectionniste (le fameux)
+- Et enfin intelligent
 
+Mes defauts :
+
+- Trop de qualité
