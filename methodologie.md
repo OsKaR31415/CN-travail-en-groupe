@@ -8,19 +8,28 @@ header-includes: |
     \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
 ---
 
+**Table des matières**
 
 <!-- vim-markdown-toc GFM -->
 
 * [Méthodologie générale](#méthodologie-générale)
 * [Repository GitHub](#repository-github)
     * [Structure de fichiers](#structure-de-fichiers)
+* [Messagerie instantanée](#messagerie-instantanée)
+* [Calendrier partagé](#calendrier-partagé)
 
 <!-- vim-markdown-toc -->
+
+
+
 
 # Méthodologie générale
 
 Pour partager le dossier du projet, nous avons créé un repository sur (https://github.com)[github], un site d'hébergement gratuit de repository `git`.
 L'outil `git` permet à la fois du _version control_ (contrôle des différentes version d'un projet, possibilité de revenir en arrière, de récupérer des fichiers perdus etc.) et du travail en _remote_, c'est-à-dire de travailler à plusieurs sur le même projet, à distance tout en gérant le bon "mélange" des modifications de chacun.
+
+
+
 
 # Repository GitHub
 
@@ -63,4 +72,14 @@ Les dossiers `CV/` et `lettres_de_motivation/` contiennent tous les deux un doss
 Le fichier `methodologie.md` (methodologie.md)[] décrit la méthodologie utilisée pour ce projet.
 
 
+# Messagerie instantanée
+
+Nous avons utilisé la plateforme Discord pour communiquer entre nous, que ça soit par texte ou par appel vocal voire même vidéo.
+
+Nous avons ainsi pu profiter des fonctionnalités de Discord, comme des différentes `channels` (endroits où l'on peut parler) pour mieux trier les informations de discussions. Discord permet également de partager tout ou partie d'un code source, avec la coloration syntaxique du langage (ce qui peut être pratique puisque nous avons notamment travaillé avec des fichiers au format markdown (`.md`))
+
+
+# Calendrier partagé
+
+Pour partager les moments de rendez-vous, nous avons utilisé le système d'`event` de Discord
 
