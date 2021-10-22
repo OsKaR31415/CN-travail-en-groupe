@@ -4,14 +4,11 @@ author: Noé Matuszenski
 header-include:
 	\usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
     \usepackage[french]{babel}
-	\usepackage{fancyhdr}
 ---
 
-<!-- activer le style des pieds et hauts de pages "fancy" -->
-\pagestyle{fancy}
+<!-- pas de numérotation sur les pied de page -->
+\pagestyle{empty}
 
-<!-- pied de page (foot) au centre (C) vide (les {} sont vides) -->
-\fancyfoot[C]{}
 
 
 \begin{flushleft}
