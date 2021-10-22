@@ -1,7 +1,7 @@
 ---
 title:  Méthodologie du projet
 subtitle: Devoir de compétences numériques
-author: Oscar Plaisant, Bastien Verge, Jeremy Couturet, Noe Matuszenski, Yanis Dezzaz
+author: Bastien Verge, Jeremy Couturet, Noe Matuszenski, Oscar Plaisant, Yanis Dezzaz
 documentclass: scrartcl
 header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
@@ -25,7 +25,7 @@ header-includes: |
 
 # Méthodologie générale
 
-Pour partager le dossier du projet, nous avons créé un repository sur (https://github.com)[github], un site d'hébergement gratuit de repository `git`.
+Pour partager le dossier du projet, nous avons créé un repository sur [https://github.com](github), un site d'hébergement gratuit de repository `git`.
 L'outil `git` permet à la fois du _version control_ (contrôle des différentes version d'un projet, possibilité de revenir en arrière, de récupérer des fichiers perdus etc.) et du travail en _remote_, c'est-à-dire de travailler à plusieurs sur le même projet, à distance tout en gérant le bon "mélange" des modifications de chacun.
 
 
@@ -78,8 +78,13 @@ Nous avons utilisé la plateforme Discord pour communiquer entre nous, que ça s
 
 Nous avons ainsi pu profiter des fonctionnalités de Discord, comme des différentes `channels` (endroits où l'on peut parler) pour mieux trier les informations de discussions. Discord permet également de partager tout ou partie d'un code source, avec la coloration syntaxique du langage (ce qui peut être pratique puisque nous avons notamment travaillé avec des fichiers au format markdown (`.md`))
 
+Discord possède aussi une fonctionnalité que nous avons utilisé comme calendrier partagé.
 
 # Calendrier partagé
 
-Pour partager les moments de rendez-vous, nous avons utilisé le système d'`event` de Discord
+Pour partager les moments de rendez-vous, nous avons utilisé le système d'`event` de Discord.
+
+Ce système permet de créer un événement à une date et une heure donnée et dans un `channel` particulier (un lieu virtuel vocal). Les personnes du groupe (appelé _serveur_ sur Discord) qui souhaitent être notifiés de l'événement lorsqu'il commencera peuvent activer des notifications, et le modérateur du serveur décide de faire effectivement commencer l'événement, ce qui notifie toutes les personnes qui l'ont demandé.
+
+Ce système simple et efficace permet de gérer des événements rapidement et facilement, et est directement intégré à Discord, ce qui permet de ne pas avoir à mettre en place un système en plus.
 
