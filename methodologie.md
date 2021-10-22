@@ -8,7 +8,7 @@ header-includes: |
     \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
 ---
 
-[[toc]]
+[toc]
 
 # Méthodologie générale
 
