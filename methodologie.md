@@ -10,6 +10,9 @@ header-includes: |
 
 [toc]
 
+* auto-gen TOC:
+{:toc}
+
 # Méthodologie générale
 
 Pour partager le dossier du projet, nous avons créé un repository sur (https://github.com)[github], un site d'hébergement gratuit de repository `git`.
