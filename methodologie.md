@@ -26,6 +26,8 @@ L'outil `git` permet à la fois du _version control_ (contrôle des différentes
 
 ## Structure de fichiers
 
+La structure de fichiers est la suivante :
+
 ```
 .
 ├── CV
@@ -55,5 +57,10 @@ L'outil `git` permet à la fois du _version control_ (contrôle des différentes
 │       └── lettre_de_motivation_Yanis.md
 └── methodologie.md
 ```
+
+Les dossiers `CV/` et `lettres_de_motivation/` contiennent tous les deux un dossier par personne, et chacun de ces dossier contient les fichiers de lettre de motivation.
+
+Le fichier `methodologie.md` (methodologie.md)[] décrit la méthodologie utilisée pour ce projet.
+
 
 
