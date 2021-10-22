@@ -1,24 +1,26 @@
-## Expérience professionnelles
+## 										Expérience professionnelles
 
-- ### 	<u>**Croix rouge**</u>
+### 		   *<u>**Croix rouge**</u>*
 
 - ​	***1 semaine, 2016***
 
-- - ​		**Concevoir 	un projet d’actions socioculturelles**
+- ​    **Concevoir 	un projet d’actions socioculturelles**
 
-- ### 	***Club solidarité***
+  
+
+  ### 	<u>***Club solidarité***</u>
 
 - ​	***4 ans***
 
-- - ​		**Concevoir 	un projet d’actions socioculturelles**
+- ​		**Concevoir 	un projet d’actions socioculturelles**
 
-- ### 	Renault
+  
+
+  ### 	<u>***Renault***</u>
 
 - ​	***1 semaine***
 
-- - ​		**Identifier 	les composants et les pièces défectueuses**
-
-- ​	
+- ​	**Identifier 	les composants et les pièces défectueuses**
 
 
  	
@@ -58,6 +60,7 @@
  	  **Contact** 
 
  
+
 
  	 **5 rue Docteur Dayfres**    **41000** **Blois** 
  	 
