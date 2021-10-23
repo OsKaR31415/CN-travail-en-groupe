@@ -11,8 +11,9 @@ header-includes: |
 
 # Compétences
 
- - leadership
- - 
+ - j'apprends vite
+ - je suis curieux
+ - je suis persévérant
 
 ## logiciels et technologies
 
@@ -39,6 +40,7 @@ header-includes: |
 |:----:|:-----------------------------|
 | 2020 | Baccalauréat, mention Bien   |
 
+
 # Stages et expériences professionnelles
 
 | 2017             | Stage de troisième au C.N.R.S d'Orléans |
@@ -46,11 +48,13 @@ header-includes: |
 | 2018             | Stage Galois à l'université d'Orléans   |
 | 2020, 2021, 2022 | Conférences pour _La nuit des maths_      |
 
+
 ## Concours
 
 | 2019   | $\mathbb{T}\mathbb{F}\mathbb{J}\mathbb{M}^2$ (Tournoi Français des Jeunes Mathématiciennes et Mathématiciens), jusqu'en finale nationale |
 |--------|---------------------------------------------------------------------------------------------------|
 | 2020   | Prologin (Concours d'informatique)                                                                |
+
 
 # Centre d'intérêts
 
