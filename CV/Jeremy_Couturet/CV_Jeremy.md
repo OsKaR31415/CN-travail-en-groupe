@@ -14,13 +14,19 @@ Mon objectif est de pouvoir travailler dans une entreprise afin de gagner en exp
 
 
 
-| Expérience                                                   | Abilities                                                    |
+| Expérience                                                   | Compétences                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Stage de 3^ème^ en Entreprise**                            | **Programmation**                                            |
 | Stage de découverte du monde de l'entreprise dans une agence Groupama. | bases de la programmation en **Python**, **Java**, **HTML**, **CSS**. |
 |                                                              |                                                              |
 |                                                              | **Montage Ordinateurs**                                      |
 |                                                              | montage simple d'ordinateurs fixes.                          |
+|                                                              |                                                              |
+|                                                              | **Langues**                                                  |
+|                                                              | Français, Anglais                                            |
+|                                                              |                                                              |
+|                                                              | **Programmes**                                               |
+|                                                              | LibreOffice, Eclipse, Pyzo                                   |
 |                                                              |                                                              |
 | Education                                                    |                                                              |
 | **Brevet des Collèges \| 2018**                              |                                                              |
