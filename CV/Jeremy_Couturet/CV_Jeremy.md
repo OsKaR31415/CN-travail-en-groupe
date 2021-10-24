@@ -34,4 +34,4 @@ Mon objectif est de pouvoir travailler dans une entreprise afin de gagner en exp
 |                                                              |                                                              |
 |                                                              | <u>**Centres Intérêts**</u>                                  |
 |                                                              | Programmation, création de petits jeux en Python-like grâce à **Godot Engine**. |
-|                                                              | Depuis l'été 2020, je me suis mis au **Drone FPV**(vol en immersion), et possède mon drone depuis l'été 2021(1an de simulateur). |
+|                                                              | Depuis l'été 2020, je me suis mis au **Drone FPV**(vol en immersion), et possède mon drone depuis l'été 2021(1 an de simulateur). |
