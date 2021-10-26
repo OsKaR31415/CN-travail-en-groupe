@@ -1,5 +1,4 @@
 # Jérémy Couturet
-
 ## Réparateur Informatique
 <p><strong>Téléphone: </strong>0624762095</p> <p align=right><strong>Email: </strong>couturet40@gmail.com</p>
 <p align=right>3 clos de l'ancienne gare - 45510 - Vannes sur Cosson</p>
