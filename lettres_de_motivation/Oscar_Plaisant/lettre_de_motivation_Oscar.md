@@ -1,6 +1,18 @@
-
-
-# Lettre de motivation
+---
+title:  Lettre de motivation
+subtitle: Stage en entreprise
+author: Oscar Plaisant
+documentclass: scrartcl
+header-includes: |
+    \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
+    \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
+---
+\begin{flushleft}
+Oscar Plaisant\\
+6 rue de la grande maison, 41350, Vineuil\\
+tel: 07 87 75 00 24
+mail: oscar.plaisant@orange.fr
+\end{flushleft}
 
 Madame, Monsieur,
 
