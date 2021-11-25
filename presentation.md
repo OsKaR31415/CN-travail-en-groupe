@@ -29,5 +29,12 @@ Un virus est un logiciel qui :
 
 . . .
 
+# Les types de virus
+
+ - les Adware
+ - les Vers informatiques
+ - les Chevaux de Troie
+ - les Ransomware
+ - les Spyware
 
 
