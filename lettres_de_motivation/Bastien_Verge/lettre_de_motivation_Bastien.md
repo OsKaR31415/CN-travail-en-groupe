@@ -1,6 +1,6 @@
 Bastien Vergé
-16 rue de Grivin
-18380 Méry-es-bois
+3 rue Dr Ducoux
+41000 blois
 06.07.28.38.47
 bastien.verge@etu.univ-tours.fr
 
