@@ -46,6 +46,12 @@ Il c'est même infiltré dans le réseau du système de santé publique du Royau
 
 
 
+Biblio:
 
-
+https://fr.norton.com/internetsecurity-privacy-what-is-a-computer-worm.html
+https://fr.wikipedia.org/wiki/Ver_informatique
+https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445234-ver-informatique-definition-concrete-et-illustree/
+https://www.avast.com/fr-fr/c-computer-worm
+https://softwarelab.org/fr/ver-informatique/
+https://webhost.laas.fr/TSF/deswarte/Publications/Infections_informatiques.pdf
 
