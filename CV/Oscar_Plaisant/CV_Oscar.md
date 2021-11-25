@@ -2,30 +2,30 @@
 title:  CV
 author: Oscar Plaisant
 documentclass: scrartcl
-fontsize: 10pt
+fontsize: 9pt
 header-includes: |
-    \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
+    \usepackage[top=-0.5cm, bottom=-2.5cm, left=2cm, right=2cm]{geometry}
     \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
     \usepackage{xcolor}
     \usepackage{tikz}
     \newcommand\skills[1]{\setlength{\fboxsep}{0pt}\fbox{\setlength{\fboxsep}{2pt}\colorbox{black}{\hspace{#1em}}\hspace*{-#1em}\hspace{5em}}}
 ---
 
-
 \begin{flushleft}
     Oscar Plaisant\\
     6 rue de la grande maison, 41350, Vineuil\\
-    tel: [07 85 75 00 24](telto:0787750024)\\
-    mail: [oscar.plaisant@orange.fr](mailto:oscar.plaisant@orange.fr)\\
+    tel: 07 85 75 00 24\\
+    mail: mailto:oscar.plaisant@orange.fr\\
 \end{flushleft}
 
+\vspace*{-6em}
 \begin{flushright}
     Michel Untel\\
     42 rue des Telles, 6066, Tèles\\
     Tel: 125 116 124 105 114\\
 \end{flushright}
 
-
+\vspace{2em}
 
 # Compétences
 
