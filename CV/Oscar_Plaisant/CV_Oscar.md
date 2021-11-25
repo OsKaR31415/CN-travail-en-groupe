@@ -1,7 +1,6 @@
 ---
 title:  CV
-subtitle: Oscar Plaisant
-uthor:
+author: Oscar Plaisant
 documentclass: scrartcl
 header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
@@ -12,10 +11,10 @@ header-includes: |
 ---
 
 \begin{flushleft}
-    \hspace*{-3em}\parbox{Oscar Plaisant\\
+    Oscar Plaisant\\
     6 rue de la grande maison, 41350, Vineuil\\
     tel: [07 85 75 00 24](telto:0787750024)\\
-    mail: [oscar.plaisant@orange.fr](mailto:oscar.plaisant@orange.fr)\\}
+    mail: [oscar.plaisant@orange.fr](mailto:oscar.plaisant@orange.fr)\\
 \end{flushleft}
 
 \begin{flushright}
@@ -33,9 +32,9 @@ header-includes: |
 
 \begin{tabular}{rl}
 leadership    & \skills{4}   \\
-apprentissage & \skills{4.2} \\
-persévérence  & \skills{3.4} \\
-curiosité     & \skills{3}   \\
+apprentissage & \skills{5} \\
+persévérence  & \skills{4} \\
+curiosité     & \skills{5}   \\
 \end{tabular}
 
 
@@ -50,15 +49,15 @@ français & \skills{5}   \\
 ## Logiciels et technologies
 
 \begin{tabular}{lrl}
-Langages & python 3                   & \skills{3.5} \\
-         & APL                        & \skills{3}   \\
-         & java                       & \skills{2}   \\
-         & Scheme                     & \skills{0.1} \\
+Langages & python 3                   & \skills{4} \\
+         & APL                        & \skills{4}   \\
+         & java                       & \skills{3}   \\
+         & Scheme                     & \skills{1} \\
          & zsh                        & \skills{3}   \\
-         & VimScript                  & \skills{3.2} \\[20pt]
-UNIX     & Vim                        & \skills{4.5} \\
-         & Tmux                       & \skills{3.8} \\
-         & Scripts Unix (bash et zsh) & \skills{2}   \\
+         & VimScript                  & \skills{4} \\[20pt]
+UNIX     & Vim                        & \skills{5} \\
+         & Tmux                       & \skills{4} \\
+         & Scripts Unix (bash et zsh) & \skills{3}   \\
          & git et GitHub              & \skills{1}   \\
 \end{tabular}
 
