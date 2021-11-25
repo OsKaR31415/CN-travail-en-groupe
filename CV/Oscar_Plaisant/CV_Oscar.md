@@ -48,11 +48,11 @@ anglais  & \skills{3.5}   & \hspace{4em} &   français & \skills{5} \\
 ## Logiciels et technologies
 
 \begin{tabular}{lrlcrl}
-Langages & python 3                   & \hspace{4em} & \skills{4}   &   APL                      & \skills{4} \\
-         & java                       & \hspace{4em} & \skills{3}   & Scheme                     & \skills{1} \\
-         & zsh                        & \hspace{4em} & \skills{3}   & VimScript                  & \skills{4} \\[20pt]
-UNIX     & Vim                        & \hspace{4em} & \skills{5}   & Tmux                       & \skills{4} \\
-         & Scripts Unix (bash et zsh) & \hspace{4em} & \skills{3}   & git et GitHub              & \skills{1} \\
+Langages & python 3                   & \skills{4}   & \hspace{4em} &   APL                      & \skills{4} \\
+         & java                       & \skills{3}   & \hspace{4em} & Scheme                     & \skills{1} \\
+         & zsh                        & \skills{3}   & \hspace{4em} & VimScript                  & \skills{4} \\[20pt]
+UNIX     & Vim                        & \skills{5}   & \hspace{4em} & Tmux                       & \skills{4} \\
+         & Scripts Unix (bash et zsh) & \skills{3}   & \hspace{4em} & git et GitHub              & \skills{1} \\
 \end{tabular}
 
 
