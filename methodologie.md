@@ -12,6 +12,7 @@ header-includes: |
 
 <!-- vim-markdown-toc GFM -->
 
+* [Sujet choisi](#sujet-choisi)
 * [Méthodologie générale](#méthodologie-générale)
 * [Repository GitHub](#repository-github)
     * [Structure de fichiers](#structure-de-fichiers)
@@ -21,13 +22,18 @@ header-includes: |
 <!-- vim-markdown-toc -->
 
 
+# Sujet choisi
+
+Nous avons choisi le sujet n°2 :
+
+> Les différents types de virus et malware qui peuvent nuire à l'utilisation d'un ordinateur ou d'un réseau.
+
 
 
 # Méthodologie générale
 
 Pour partager le dossier du projet, nous avons créé un repository sur [https://github.com](github), un site d'hébergement gratuit de repository `git`.
 L'outil `git` permet à la fois du _version control_ (contrôle des différentes version d'un projet, possibilité de revenir en arrière, de récupérer des fichiers perdus etc.) et du travail en _remote_, c'est-à-dire de travailler à plusieurs sur le même projet, à distance tout en gérant le bon "mélange" des modifications de chacun.
-
 
 
 
@@ -87,4 +93,8 @@ Pour partager les moments de rendez-vous, nous avons utilisé le système d'`eve
 Ce système permet de créer un événement à une date et une heure donnée et dans un `channel` particulier (un lieu virtuel vocal). Les personnes du groupe (appelé _serveur_ sur Discord) qui souhaitent être notifiés de l'événement lorsqu'il commencera peuvent activer des notifications, et le modérateur du serveur décide de faire effectivement commencer l'événement, ce qui notifie toutes les personnes qui l'ont demandé.
 
 Ce système simple et efficace permet de gérer des événements rapidement et facilement, et est directement intégré à Discord, ce qui permet de ne pas avoir à mettre en place un système en plus.
+
+
+
+
 
