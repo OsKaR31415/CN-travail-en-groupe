@@ -1,0 +1,2 @@
+La lettre de motivation de Bastien est assez courte, sans mise en page particulière.
+En revanche, les informations déjà présentes sont suffisantes, et pour mon opinion, cela représente le stricte minimum.
