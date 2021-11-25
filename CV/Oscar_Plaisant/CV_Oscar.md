@@ -2,6 +2,7 @@
 title:  CV
 author: Oscar Plaisant
 documentclass: scrartcl
+fontsize: 10pt
 header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
     \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
@@ -9,6 +10,7 @@ header-includes: |
     \usepackage{tikz}
     \newcommand\skills[1]{\setlength{\fboxsep}{0pt}\fbox{\setlength{\fboxsep}{2pt}\colorbox{black}{\hspace{#1em}}\hspace*{-#1em}\hspace{5em}}}
 ---
+
 
 \begin{flushleft}
     Oscar Plaisant\\
@@ -30,37 +32,28 @@ header-includes: |
 
 ## Compétences générales
 
-\begin{tabular}{rl}
-leadership    & \skills{4}   \\
-apprentissage & \skills{5} \\
-persévérence  & \skills{4} \\
-curiosité     & \skills{5}   \\
+\begin{tabular}{rlcrl}
+leadership    & \skills{4}   & \hspace{4em} &   apprentissage & \skills{5} \\
+persévérence  & \skills{4}   & \hspace{4em} &   curiosité     & \skills{5} \\
 \end{tabular}
 
 
 ## Langues
 
-\begin{tabular}{rl}
-anglais  & \skills{3.5} \\
-français & \skills{5}   \\
+\begin{tabular}{rlcrl}
+anglais  & \skills{3.5}   & \hspace{4em} &   français & \skills{5} \\
 \end{tabular}
 
 
 ## Logiciels et technologies
 
-\begin{tabular}{lrl}
-Langages & python 3                   & \skills{4} \\
-         & APL                        & \skills{4}   \\
-         & java                       & \skills{3}   \\
-         & Scheme                     & \skills{1} \\
-         & zsh                        & \skills{3}   \\
-         & VimScript                  & \skills{4} \\[20pt]
-UNIX     & Vim                        & \skills{5} \\
-         & Tmux                       & \skills{4} \\
-         & Scripts Unix (bash et zsh) & \skills{3}   \\
-         & git et GitHub              & \skills{1}   \\
+\begin{tabular}{lrlcrl}
+Langages & python 3                   & \skills{4}   & \hspace{4em} &   APL                      & \skills{4} \\
+         & java                       & \skills{3}   & \hspace{4em} & Scheme                     & \skills{1} \\
+         & zsh                        & \skills{3}   & \hspace{4em} & VimScript                  & \skills{4} \\[20pt]
+UNIX     & Vim                        & \skills{5}   & \hspace{4em} & Tmux                       & \skills{4} \\
+         & Scripts Unix (bash et zsh) & \skills{3}   & \hspace{4em} & git et GitHub              & \skills{1} \\
 \end{tabular}
-
 
 
 # Formation
@@ -94,6 +87,5 @@ UNIX     & Vim                        & \skills{5} \\
  - Pratique régulière du Kung-Fu en club depuis mes 8 ans
  - Magie (Prestidigitation), dans un club, et en semi-profesionnel
  - Programmation, algorithmique et informatique en général
-
 
 
