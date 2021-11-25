@@ -25,6 +25,9 @@ Un virus est un logiciel qui :
 . . .
 
  - Utilise un autre logiciel comme "hôte"
+ - Utilisé à des fins malveillantes
+
+. . .
 
 
 

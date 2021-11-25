@@ -6,7 +6,9 @@ documentclass: scrartcl
 header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
     \usepackage{amsmath, amssymb, amsfonts, mathrsfs}
+    \parindent=1em
 ---
+
 \begin{flushleft}
 Oscar Plaisant\\
 6 rue de la grande maison, 41350, Vineuil\\
