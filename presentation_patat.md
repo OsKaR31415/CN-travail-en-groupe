@@ -14,7 +14,7 @@ patat:
             fragment: false
             replace: true
         huge:
-            command: toilet --metal -f mono9
+            command: toilet --metal -f mono12
             fragment: false
             replace: true
         windows:
@@ -34,6 +34,7 @@ patat:
         header: [bold, underline, rgb#d56b00]
         bold: [bold, underline, rgb#00aa00]
         italic: [italic, rgb#ffffff]
+        background: [rgb#FFFFFF]
 ---
 
 
