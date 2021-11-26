@@ -6,7 +6,8 @@ documentclass: beamer
 ---
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Introduction
 
@@ -18,7 +19,8 @@ Dans cette présentation, nous aborderont les différents types de Virus informa
 
 L'ensemble de notre travail (détails supplémentaires, sources et bibliographie...) ainsi que les autres document à produire (CV et lettres de motivation) sont en ligne, sur le repository gitHub : [OsKaR31415/CN-travail-en-groupe](https://github.com/OsKaR31415/CN-travail-en-groupe)
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Outils utilisés, méthodologie
 
@@ -43,7 +45,8 @@ Versionning et fonctionnalités de Remote programming : git
 Document principalement écrits au format _markdown_ (format simple, léger, portable, convertible façilement, et bien intégré avec gitHub)
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Définitions
 
@@ -85,7 +88,8 @@ Un virus informatique est un Malware particulier (qui se cache dans une autre ap
 
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Vers informatiques
 
@@ -105,7 +109,8 @@ Il lui suffit d'infecter un appareil connecté à un réseau pour pouvoir se dup
 
 Ce genre programmes sont très difficiles à remarquer, même pour un anti-virus.
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Vers informatiques
 
@@ -164,7 +169,8 @@ Utilise une vulnérabilité de Windows 8.
 Complété par un Ransomware, il chiffrait les données de la victime et demandait une rançon avant de les redonner.
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Ransomware
 
@@ -180,7 +186,8 @@ Complété par un Ransomware, il chiffrait les données de la victime et demanda
 
 Malware qui "prends en otage" des données personnelles, en empêchant l'utilisateur d'accéder à ses fichiers tant qu'il n'à pas payé une raçon.
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Ransomware
 
@@ -225,7 +232,8 @@ Dans ce cas, la raçon est explicitée comme telle, et non masquée comme pour l
 
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Trojan
 
@@ -245,7 +253,8 @@ Logiciel
 
  - but de s'installer **à l'insu** de l'utilisateur
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Trojan
 
@@ -259,7 +268,8 @@ Terme inventé en 1970 par Daniel J. Edwards.
 
 Fait référence à la mythologie Grecque antique.
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Trojan
 
@@ -273,7 +283,8 @@ Un programme en apparence inoffensif, mais contenant du code malveillant.
 
 L'utilisateur ne se doute pas qu'il installe lui-même un virus.
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Trojan
 
@@ -316,7 +327,8 @@ L'utilisateur ne se doute pas qu'il installe lui-même un virus.
 
  - Lecture d'une clef USB d'origine inconnue
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Trojan
 
@@ -347,7 +359,8 @@ Les symptômes les plus probables sont :
  - supression, blocage, modifications de certaines données
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Spywares
 
@@ -363,7 +376,8 @@ Forme de malware qui se cache sur un appareil pour surveiller les activités de 
 
 Peut voler des données telles que des données banquaires ou des mots de passe.
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Les Spywares
 
@@ -389,7 +403,8 @@ Peut voler des données telles que des données banquaires ou des mots de passe.
  - Les attaques ne sont pas ciblées : le but est d'infecter le plus grand nombre de personnes
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Conclusion
 
@@ -425,7 +440,8 @@ mais on peut remarquer des stratégies simples pour éviter d'être infecté par
 
  - Faire attention à ne pas lire de clef USB ou autres moyens de stockage d'origine étrangère
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Conclusion
 
@@ -458,7 +474,8 @@ Le facteur du nombre d'utilisateurs joue un rôle dans cette grande différence 
  - Les failles sont plus rares et trouvées plus rapidement, surtout pour les systèmes qui sont en _open source_ et qui bénéficie d'une grande communauté
 
 
-----
+\end{frame}
+\begin{frame}{}
 
 # Remerciements
 
